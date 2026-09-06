@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate computer science student, who loves solving problems and building<br>some handful real world projects 
+I'm a passionate computer science student, who loves solving problems and building<br>some handful real world projects.
 
 
 ## 🌐 Socials:
